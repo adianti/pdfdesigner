@@ -1,8 +1,4 @@
 <?php
-use FPDF;
-use Exception;
-use SimpleXMLIterator;
-
 /**
  * FPDF Adapter that parses XML files from Adianti Framework
  *
